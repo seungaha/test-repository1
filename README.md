@@ -1,3 +1,8 @@
+![대체 텍스트(Alternative Text)](https://picsum.photos/1000/400 "링크 설명(Title)")
+
+![구글검색고양이이미지]
+(https://marketplace.canva.com/MAC8X61oLm4/1/thumbnail_large-1/canva-baby-cat-MAC8X61oLm4.jpg)
+
 # test-repository1
 ------
 테스트용 레포지토리1
